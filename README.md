@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=2600&pause=700&color=F43F5E&center=true&vCenter=true&width=760&lines=%C3%89tudiante+en+L3+S%C3%A9curit%C3%A9+Informatique+%40+ESGIS;Passionn%C3%A9e+par+la+Cyberd%C3%A9fense+%26+les+R%C3%A9seaux;Ancienne+%C3%A9l%C3%A8ve+de+Pr%C3%A9pa+Scientifique;Du+concept+th%C3%A9orique+au+lab+pratique" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=2600&pause=700&color=F43F5E&center=true&vCenter=true&width=760&lines=%C3%89tudiante+en+L3+S%C3%A9curit%C3%A9+Informatique+%40+ESGIS;Passionn%C3%A9e+par+la+Cyberd%C3%A9fense+%26+les+R%C3%A9seaux;Du+concept+th%C3%A9orique+au+lab+pratique" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <b>Sécuriser les architectures, auditer les flux et concevoir des systèmes résilients</b> — avec la rigueur d'esprit de la prépa et la pratique concrète de la cybersécurité.
+  <b>Sécuriser les architectures, auditer les flux et concevoir des systèmes résilients</b> — avec la rigueur d'esprit et la pratique concrète de la cybersécurité.
 </p>
 
 <p align="center">
