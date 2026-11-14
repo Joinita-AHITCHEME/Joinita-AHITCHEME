@@ -1,10 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:7c3aed,100:f43f5e&height=180&section=header&text=Joinita%20AHITCHEME&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Joinita AHITCHEME" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0284c7,50:7c3aed,100:f43f5e&height=180&section=header&text=Joinita%20AHITCHEME&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Joinita AHITCHEME" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=2600&pause=700&color=F43F5E&center=true&vCenter=true&width=760&lines=%C3%89tudiante+en+L3+S%C3%A9curit%C3%A9+Informatique+%40+ESGIS;Passionn%C3%A9e+par+la+Cyberd%C3%A9fense+%26+les+R%C3%A9seaux;Ancienne+%C3%A9l%C3%A8ve+de+Pr%C3%A9pa+Scientifique;Du+concept+th%C3%A9orique+au+lab+pratique" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <b>Sécuriser les architectures, auditer les flux et concevoir des systèmes résilients</b> — avec la rigueur d'esprit et la pratique concrète de la cybersécurité.
+  <b>Sécuriser les architectures, auditer les flux et concevoir des systèmes résilients</b> — avec la rigueur d'esprit de la prépa et la pratique concrète de la cybersécurité.
 </p>
 
 <p align="center">
@@ -66,11 +69,14 @@
 
 ## 📜 Certifications & Formations
 
-| Domaine | Certification / Parcours | Organisme |
-| :--- | :--- | :--- |
-| **Développement Backend & API** | *Back End Development and APIs* | freeCodeCamp |
-| **Sécurité & Réseaux** | *Parcours Fondamentaux Réseaux & Cyberdéfense* | Cisco NetAcad / En cours |
-| **Méthodologie & Algorithmique** | *Classes Préparatoires aux Grandes Écoles (CPGE)* | 2 ans de formation intensive |
+| Certification / Formation | Organisme | Compétences Validées | Vérification |
+| :--- | :--- | :--- | :---: |
+| **Back-End Development and APIs** | **freeCodeCamp** | APIs REST, Node.js, Express, Microservices, MongoDB (~300h) | [Vérifier](https://freecodecamp.org/certification/fcc-31e82e30-258f-4f8a-87e6-0c60f43fa08c/back-end-development-and-apis-v9) |
+| **JavaScript Algorithms & Data Structures** | **freeCodeCamp** | Algorithmique, ES6+, Programmation orientée objet, logique (~300h) | [Vérifier](https://freecodecamp.org/certification/fcc-31e82e30-258f-4f8a-87e6-0c60f43fa08c/javascript-v9) |
+| **Gérez du code avec Git et GitHub** | **OpenClassrooms** | Gestion de versions, workflows Git, collaboration en équipe | *Validé (100%)* |
+| **Créez votre site web avec HTML5 et CSS3** | **OpenClassrooms** | Intégration web moderne, Responsive Design, sémantique HTML | *Validé (100%)* |
+| **Fondamentaux Réseaux & Cyberdéfense** | **Cisco NetAcad** | Protocoles TCP/IP, sécurité des équipements & architecture réseau | *En cours* |
+| **Classes Préparatoires Scientifiques (CPGE)** | **Cycle Préparatoire** | Rigueur mathématique, modélisation physique, endurance analytique | *2 ans validés* |
 
 ---
 
@@ -97,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:991b1b,100:09090b&height=90&section=footer" alt="Footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,50:7c3aed,100:0284c7&height=90&section=footer" alt="Footer" />
 </p>
